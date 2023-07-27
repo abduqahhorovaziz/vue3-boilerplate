@@ -11,13 +11,14 @@ This boilerplate was created as part of my [custom Vue 3 boilerpalte tutorial](h
 - [Pinia ^2.1.4](https://pinia.vuejs.org/)
 - [Router ^4.2.4](https://router.vuejs.org/)
 - [Tailwind CSS ^3.3.3](https://tailwindcss.com/)
+- [Vuetify ^3.3.10](https://vuetifyjs.com/)
 - eslint ^8.45.0
 - prettier ^3.0.0
 
 ## Install
 
 ```
-git clone https://github.com/richardevcom/vue3-boilerplate.git
+git clone https://github.com/abduqahhorovaziz/vue3-boilerplate
 ```
 
 then
